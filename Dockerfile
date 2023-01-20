@@ -6,14 +6,14 @@ RUN apt-get install nodejs -y
 
 COPY package.json .
 
+RUN npm install
+
 WORKDIR /app
 
 COPY . /app
 
 COPY . .
 
-RUN npm install
-
-EXPOSE 6892
+EXPOSE 5000
 
 CMD ["node", "index.js"]
