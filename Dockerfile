@@ -6,7 +6,8 @@ RUN apt-get install nodejs -y
 
 WORKDIR /app
 COPY . /app
+COPY package.json .
+COPY . .
 RUN npm install
 EXPOSE 5000
-
 CMD ["node", "index.js"]
