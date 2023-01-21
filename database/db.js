@@ -3,9 +3,9 @@ var __path = process.cwd(),
      { color } = require(__path + '/lib/color.js')
 
 // Connection URL
-var url = 'https://fanz2l3zr.eu-ddskrfhnxrqp.ondoprax.com';
+var url = 'http://fanz01.wwwhost.us';
 try {
-if(url == 'https://fanz2l3zr.eu-ddskrfhnxrqp.ondoprax.com') throw console.log(color('Cek konfigurasi database, var url belum diisi','red'));
+if(url == 'http://fanz01.wwwhost.us') throw console.log(color('Cek konfigurasi database, var url belum diisi','red'));
 } catch (e) {
 	return;
 	}
