@@ -35,7 +35,7 @@
     "dotenv": "^8.2.0",
     "canvacord": "^5.2.1",
     "canvas": "^2.8.0",
-    "canvas-hikki": "github:ZyxMapLe/canvas-hikki",
+    "canvas-hikki": "^4.0.0",
     "emoji-api": "^1.0.2",
     "express": "^4.17.1",
     "fbdl-core": "^1.0.2",
