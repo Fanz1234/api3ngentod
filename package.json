@@ -51,7 +51,8 @@
     "spinnies": "^0.5.1",
     "ssl-express-www": "^3.0.7",
     "urlencode": "^1.1.0",
-    "qs": "^6.10.1"
+    "qs": "^6.10.1",
+    "zrapi": "^0.0.7"
   },
   "homepage": "https://github.com/zeeone-ofc/api-mirip-zeks#readme"
 }
