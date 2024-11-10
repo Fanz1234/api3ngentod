@@ -38,6 +38,7 @@
     "cheerio": "^1.0.0-rc.5",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
+    "emoji-api": "^3.0.1",
     "express": "^4.17.1",
     "form-data": "^3.0.0",
     "fluent-ffmpeg": "^2.1.2",
@@ -51,6 +52,7 @@
     "request": "^2.88.2",
     "spinnies": "^0.5.1",
     "ssl-express-www": "^3.0.7",
+    "tiktok-scraper": "^1.4.36",
     "urlencode": "^1.1.0",
     "qs": "^6.10.1",
     "zrapi": "^0.0.7"
