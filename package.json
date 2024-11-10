@@ -51,7 +51,6 @@
     "request": "^2.88.2",
     "spinnies": "^0.5.1",
     "ssl-express-www": "^3.0.7",
-    "tiktok-scraper": "^1.4.36",
     "urlencode": "^1.1.0",
     "qs": "^6.10.1",
     "zrapi": "^0.0.7"
